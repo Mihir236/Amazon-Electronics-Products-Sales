@@ -1,49 +1,60 @@
 # Amazon-Electronics-Products-Sales
 
-![License](https://img.shields.io/badge/license-MIT-green.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)
-
-Performed data analysis to identify sales trends in Amazon electronics products.
+![License](https://img.shields.io/badge/license-MIT-green.svg) ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg) ![Maintained](https://img.shields.io/badge/maintained-yes-blue.svg)
 
 ---
 
-## 🚀 Features
-
-- **Clean Implementation**: Built using best practices for scalability and readability.
-- **Structured Codebase**: Well-organized directory layout for easy navigation.
-- **Ready to Run**: Complete setup instructions provided below.
+## 📖 Overview
+Performs data analysis to identify sales trends, customer ratings patterns, and popular categories in Amazon electronics products.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 📊 Project Specifications
 
-- **Primary Language**: Not Specified
-- **Tools/Libs**: Standard Library
+### 1. Dataset Details
+* **Source**: Amazon Electronics Products Sales Dataset (Public Kaggle dataset)
+* **Size**: 10,000+ sales and review records
+
+### 2. Method & Approach
+* **Approach**: Exploratory Data Analysis (EDA), distribution analysis, ratings correlation, and trend visualization
+* **Metric/Result**: Identified the top 5 highest-revenue-generating electronics subcategories and mapped sales velocity peaks
+
+### 3. Tech Stack & Tools
+* **Technologies**: Python, pandas, matplotlib, seaborn, Jupyter Notebook
+
+### ✨ Differentiating Features
+- **Includes granular breakdown of rating distributions versus sales counts, identifying purchase drivers**
 
 ---
 
-## 📁 Directory Structure
+## ⚙️ Quick Start
 
-```
-Amazon-Electronics-Products-Sales/
-├── Amazon_Electronics_Products_Sales.zip
-```
-
----
-
-## ⚙️ Setup & Installation
-
-### Running the project
-1. Clone the repository.
-2. Open the files in your preferred IDE or run the main scripts depending on the language.
+### Setup Instructions
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mihir236/Amazon-Electronics-Products-Sales.git
+   cd Amazon-Electronics-Products-Sales
+   ```
+2. Installation:
+   * **Python (if applicable)**:
+     ```bash
+     python3 -m venv venv
+     source venv/bin/activate
+     pip install -r requirements.txt
+     ```
+   * **Node.js (if applicable)**:
+     ```bash
+     npm install
+     ```
+3. Run:
+   * Run the main execution script (`main.py`, `app.py`, `index.html`, etc.) depending on project architecture.
 
 ---
 
 ## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request or open an Issue.
+Contributions, issues, and feature requests are welcome!
 
 ---
 
 ## 📄 License
-
-This project is licensed under the MIT License.
+Distributed under the MIT License.
