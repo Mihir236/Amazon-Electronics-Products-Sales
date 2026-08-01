@@ -4,26 +4,14 @@
 
 ---
 
-## 📖 Overview
-Performs data analysis to identify sales trends, customer ratings patterns, and popular categories in Amazon electronics products.
+## 📋 Project Specifications
 
----
-
-## 📊 Project Specifications
-
-### 1. Dataset Details
-* **Source**: Amazon Electronics Products Sales Dataset (Public Kaggle dataset)
-* **Size**: 10,000+ sales and review records
-
-### 2. Method & Approach
-* **Approach**: Exploratory Data Analysis (EDA), distribution analysis, ratings correlation, and trend visualization
-* **Metric/Result**: Identified the top 5 highest-revenue-generating electronics subcategories and mapped sales velocity peaks
-
-### 3. Tech Stack & Tools
-* **Technologies**: Python, pandas, matplotlib, seaborn, Jupyter Notebook
-
-### ✨ Differentiating Features
-- **Includes granular breakdown of rating distributions versus sales counts, identifying purchase drivers**
+* **Overview**: "Performs data analysis to identify sales trends, customer ratings patterns, and popular categories in Amazon electronics products."
+* **Dataset**: "Amazon Electronics Products Sales Dataset (Public Kaggle dataset), 10,000+ sales and review records"
+* **Method**: "Exploratory Data Analysis (EDA), distribution analysis, ratings correlation, and trend visualization"
+* **Results**: "Identified the top 5 highest-revenue electronics categories and mapped sales velocity peaks"
+* **Tech stack**: "Python, pandas, matplotlib, seaborn, Jupyter Notebook"
+* **Unique feature**: "Includes granular breakdown of rating distributions versus sales counts, identifying purchase drivers"
 
 ---
 
